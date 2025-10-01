@@ -1,6 +1,6 @@
 # Perimeter vs Area Scaling Demo
 
-An interactive Streamlit app that visually demonstrates the mathematical relationship between perimeter and area scaling for polygons. Perfect for 7th-grade math classes and beyond!
+An [interactive Streamlit app](https://perimeter-vs-area.streamlit.app/) that visually demonstrates the mathematical relationship between perimeter and area scaling for polygons. Perfect for 7th-grade math classes and beyond!
 
 ## 🎯 What Does This App Teach?
 
