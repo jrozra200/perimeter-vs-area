@@ -7,7 +7,6 @@ st.set_page_config(page_title="Perimeter vs Area Scaling", layout="wide")
 
 # Title and introduction
 st.title("🔍 Perimeter vs Area Scaling Demo")
-st.markdown("### When you triple the perimeter, the area grows 9 times!")
 
 # Sidebar for controls
 st.sidebar.header("Controls")
